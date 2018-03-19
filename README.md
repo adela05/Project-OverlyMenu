@@ -1,2 +1,2 @@
-# Project-OverlyMenu
+# Project-OverlayMenu
 Another Udemy JS Demo
